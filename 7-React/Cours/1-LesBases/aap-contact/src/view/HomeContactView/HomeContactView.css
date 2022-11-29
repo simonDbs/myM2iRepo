@@ -1,0 +1,8 @@
+.needs-validation{
+    display: flex;
+    justify-content: space-around;
+}
+
+.form-row  {
+    width: 50%;
+}
