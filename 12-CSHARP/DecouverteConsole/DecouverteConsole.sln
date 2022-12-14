@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cours", "Cours", "{C9F4B36A-D976-4A9A-9175-84F19CE5783A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exo", "Exo", "{0EDDFF9F-B891-4EA7-B97B-CCDD90B6CB8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecouverteConsole", "Cours\DecouverteConsole\DecouverteConsole.csproj", "{8AC83E91-6F04-4A29-92B2-AFB99B5ACB75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AC83E91-6F04-4A29-92B2-AFB99B5ACB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC83E91-6F04-4A29-92B2-AFB99B5ACB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC83E91-6F04-4A29-92B2-AFB99B5ACB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC83E91-6F04-4A29-92B2-AFB99B5ACB75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8AC83E91-6F04-4A29-92B2-AFB99B5ACB75} = {C9F4B36A-D976-4A9A-9175-84F19CE5783A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36A58C45-208F-49D8-A837-CCCBAE63DCE5}
+	EndGlobalSection
+EndGlobal
