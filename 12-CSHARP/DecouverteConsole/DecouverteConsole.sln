@@ -87,21 +87,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TableauCopyTO", "TableauCop
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CopieTableAvecmethodeClone", "CopieTableAvecmethodeClone\CopieTableAvecmethodeClone.csproj", "{FA6041DB-7E72-429C-95BC-3314BF77FA9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo32-TableauValeur", "Exo23-TableauValeur\Exo32-TableauValeur.csproj", "{86940482-8DEB-4BB9-95AF-BF82049EE375}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo32-TableauValeur", "Exo23-TableauValeur\Exo32-TableauValeur.csproj", "{86940482-8DEB-4BB9-95AF-BF82049EE375}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo34-TableauPair", "Exo34-TableauPair\Exo34-TableauPair.csproj", "{74E0965A-9728-4DD3-9809-E178F7C10EC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo34-TableauPair", "Exo34-TableauPair\Exo34-TableauPair.csproj", "{74E0965A-9728-4DD3-9809-E178F7C10EC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo35-TableauList de Contact", "Exo35-TableauList de Contact\Exo35-TableauList de Contact.csproj", "{E39858D9-A9BC-4C40-92E2-70D0D8A38F64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo35-TableauList de Contact", "Exo35-TableauList de Contact\Exo35-TableauList de Contact.csproj", "{E39858D9-A9BC-4C40-92E2-70D0D8A38F64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo36-TableauNotes", "Exo36-TableauNotes\Exo36-TableauNotes.csproj", "{BD9520CC-1967-43C7-8C4B-5AE9693F2905}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo36-TableauNotes", "Exo36-TableauNotes\Exo36-TableauNotes.csproj", "{BD9520CC-1967-43C7-8C4B-5AE9693F2905}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoucleForeach", "BoucleForeach\BoucleForeach.csproj", "{563F9622-A82D-4785-90AB-6F00943F622B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoucleForeach", "BoucleForeach\BoucleForeach.csproj", "{563F9622-A82D-4785-90AB-6F00943F622B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo37-ForeachLesMois", "Exo37-ForeachLesMois\Exo37-ForeachLesMois.csproj", "{3F2C78CA-F47D-43B4-A775-40F9FC1414EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo37-ForeachLesMois", "Exo37-ForeachLesMois\Exo37-ForeachLesMois.csproj", "{3F2C78CA-F47D-43B4-A775-40F9FC1414EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo38-LesMoisAnnee", "Exo38-LesMoisAnnee\Exo38-LesMoisAnnee.csproj", "{3328B1B5-6A41-4A32-9994-CD7329CFA8C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo38-LesMoisAnnee", "Exo38-LesMoisAnnee\Exo38-LesMoisAnnee.csproj", "{3328B1B5-6A41-4A32-9994-CD7329CFA8C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo39-GreatTP", "Exo39-GreatTP\Exo39-GreatTP.csproj", "{BC136477-6666-4850-A30A-65057B43215B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo39-GreatTP", "Exo39-GreatTP\Exo39-GreatTP.csproj", "{BC136477-6666-4850-A30A-65057B43215B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LesFOnctions", "Les Casting\LesFOnctions.csproj", "{E3FF0A21-A2D0-4CAF-A152-8F4B3D46C817}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -301,6 +303,10 @@ Global
 		{BC136477-6666-4850-A30A-65057B43215B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC136477-6666-4850-A30A-65057B43215B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC136477-6666-4850-A30A-65057B43215B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3FF0A21-A2D0-4CAF-A152-8F4B3D46C817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3FF0A21-A2D0-4CAF-A152-8F4B3D46C817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3FF0A21-A2D0-4CAF-A152-8F4B3D46C817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3FF0A21-A2D0-4CAF-A152-8F4B3D46C817}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -354,6 +360,7 @@ Global
 		{3F2C78CA-F47D-43B4-A775-40F9FC1414EE} = {0EDDFF9F-B891-4EA7-B97B-CCDD90B6CB8C}
 		{3328B1B5-6A41-4A32-9994-CD7329CFA8C5} = {0EDDFF9F-B891-4EA7-B97B-CCDD90B6CB8C}
 		{BC136477-6666-4850-A30A-65057B43215B} = {0EDDFF9F-B891-4EA7-B97B-CCDD90B6CB8C}
+		{E3FF0A21-A2D0-4CAF-A152-8F4B3D46C817} = {C9F4B36A-D976-4A9A-9175-84F19CE5783A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {36A58C45-208F-49D8-A837-CCCBAE63DCE5}
